@@ -30,7 +30,7 @@ int main() {
 
     int shmid;
     int semid;
-    char pathname[] = "task02-2.c";
+    char pathname[] = "task02-1.c";
     
 
     key_t key;
